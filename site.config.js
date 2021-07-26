@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'realCrush',
   domain: 'realcrush.cn',
-  author: 'realCrush,
+  author: 'realCrush',
 
   // open graph metadata (optional)
   description: 'Example site description',
